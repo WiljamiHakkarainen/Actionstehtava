@@ -9,7 +9,6 @@
         <module name="WhitespaceAfter"/>
     </module>
 
-    <!-- Line length must go under Checker, not TreeWalker -->
     <module name="LineLength">
         <property name="max" value="120"/>
     </module>
